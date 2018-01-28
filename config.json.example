@@ -1,0 +1,17 @@
+{
+	"webhooks": [
+		{
+			"name":        "channel_1",
+			"description": "my first channel",
+			"url":         "https://discordapp.com/api/webhooks/123456790987654321/qwertzuiopasdfghjklyxcvbnm_qwertzuiopasdfghjklyxcvbnm_qwertzuiopasdf"
+		}, {
+			"name":        "channel_2",
+			"description": "my second channel",
+			"url":         "https://discordapp.com/api/webhooks/234567890987654321/wertzuiopasdfghjklyxcvbnm_qwertzuiopasdfghjklyxcvbnm_qwertzuiopasdfg"
+		}, {
+			"name":        "channel_3",
+			"description": "my third channel",
+			"url":         "https://discordapp.com/api/webhooks/345678909876543212/ertzuiopasdfghjklyxcvbnm_qwertzuiopasdfghjklyxcvbnm_qwertzuiopasdfgh"
+		}
+	]
+}
